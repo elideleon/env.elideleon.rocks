@@ -1,0 +1,8 @@
+{
+	"tracks": [
+		{ "name":"track1", "image":"http://test.elideleon.rocks/wp-content/uploads/2017/02/akai_reel_front.jpg" },
+		{ "name":"track2", "image":"http://test.elideleon.rocks/wp-content/uploads/2017/02/akai_reel_front.jpg" },
+		{ "name":"track3", "image":"http://test.elideleon.rocks/wp-content/uploads/2017/02/akai_reel_front.jpg" }
+	],
+	"title": "Hola ZSH!"
+}
