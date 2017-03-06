@@ -27,7 +27,7 @@ import $ from 'jquery'
 
 
     SC.initialize({
-        client_id: "",
+        client_id: "LGDBrAFSvxPdqLo0e8hhWYnhvH2GFCrq",
         redirect_uri: "CALLBACK_URL"
     });
 
